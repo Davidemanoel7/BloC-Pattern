@@ -1,6 +1,6 @@
 # pattern_bloc
 
-A new Flutter project.
+Repository intended for learning the BloC pattern in Flutter
 
 ## Getting Started
 
