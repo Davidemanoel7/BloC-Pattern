@@ -1,10 +1,30 @@
 # pattern_bloc
 
-Repository intended for learning the BloC pattern in Flutter
+Repository intended for learning the BloC pattern in Flutter. [:link: See tutorial](https://www.youtube.com/watch?v=0QgJWdbcHOY)
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+## Clone this repo
+
+On terminal, write the following commands
+
+**Cloning**
+
+```shell
+git clone https://github.com/Davidemanoel7/BloC-Pattern
+```
+
+**Open**
+
+```shell
+code BloC-Pattern
+```
+
+**Instal dependencies**
+```shell
+flutter pub get
+```
+
+## Learn Flutter
 
 A few resources to get you started if this is your first Flutter project:
 
